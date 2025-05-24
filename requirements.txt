@@ -1,0 +1,12 @@
+langchain_ibm
+langgraph
+python-dotenv
+langchain_community
+duckduckgo-search
+beautifulsoup4
+langgraph-supervisor
+arxiv
+pymupdf
+nest_asyncio
+langchain_docling
+IPython
