@@ -1,4 +1,4 @@
-# 🧠 LangGraph Agent Workshop
+# 🧠 Taller de agentes en LangGraph
 
 Este repositorio contiene ejemplos prácticos de agentes construidos con [LangGraph](https://github.com/langchain-ai/langgraph) en **Python**. LangGraph permite construir flujos de trabajo controlados, reactivos y colaborativos sobre LLMs de forma modular y clara.
 ---
@@ -25,7 +25,7 @@ Este repositorio contiene ejemplos prácticos de agentes construidos con [LangGr
 
    ```bash
    git clone https://github.com/taller-genai-ucmc-mayo-2025/agentes-langgraph-taller
-   cd langgraph-agent-workshop
+   cd agentes-langgraph-taller
    ```
 
 2. **Instala las dependencias**
